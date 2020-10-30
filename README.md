@@ -1,6 +1,6 @@
 ## Whoami** :man:
-![](https://img.shields.io/twitter/follow/wildagsx?style=social)
-[![https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin]](https://www.linkedin.com/in/philippartstephane/)
+[![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/wildagsx)
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/philippartstephane/)
 
 Actuellement je suis architecte logiciel au sein d'Harmonie Mutuelle.
 Je participe depuis plusieurs années à la mise en place de socles de développements pour les équipes projets (java, angular, esb, ...) et intervient en support auprès de celles-ci pour les accompagner au mieux dans l'adoption de ces technologie.
