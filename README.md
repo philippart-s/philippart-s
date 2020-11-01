@@ -19,20 +19,21 @@ Toujours dans le partage, je réaliser en tant que speaker, des conférences int
 
 ### :point_right: Compétences
 #### Langages / Frameworks
-<img width="32" height="32" src="./assets/images/java.png" alt="java" title="Java"/> <img src="./assets/images/spring.png" alt="spring" title="Spring"/> 
-<img src="./assets/images/typescript.png" alt ="typescript" title="Typescript"/> 
-<img src="./assets/images/angular.png" alt ="angular" title="Angular"/>
-<img src="./assets/images/groovy.png" alt ="groovy" title="Groovy"/>
+<img src="./assets/images/java.png" alt="java" title="Java"/>&nbsp;&nbsp; <img src="./assets/images/spring.ico" alt="spring" title="Spring"/>&nbsp;&nbsp; 
+<img src="./assets/images/typescript.png" alt ="typescript" title="Typescript"/>&nbsp;&nbsp; 
+<img src="./assets/images/angular.png" alt ="angular" title="Angular"/>&nbsp;&nbsp;
+<img src="./assets/images/groovy.png" alt ="groovy" title="Groovy"/>&nbsp;&nbsp;
 
 #### Outils
-<img src="./assets/images/jenkins.png" alt ="Jenkins" title="Jenkins"/> <img src="./assets/images/github.png" alt ="GitHub" title="GitHub"/> 
-<img src="./assets/images/git.png" alt ="Git" title="Git"/> 
-<img src="./assets/images/maven.png" alt ="Maven" title="Maven"/> 
-<img src="./assets/images/npm.png" alt ="Npm" title="Npm"/> 
-<img src="./assets/images/docker.png" alt ="Docker" title="Docker"/> 
+<img src="./assets/images/jenkins.png" alt ="Jenkins" title="Jenkins"/>&nbsp;&nbsp; <img src="./assets/images/github.png" alt ="GitHub" title="GitHub"/>&nbsp;&nbsp; 
+<img src="./assets/images/git.png" alt ="Git" title="Git"/>&nbsp;&nbsp; 
+<img src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
+<img height="32" width="32" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/>&nbsp;&nbsp; 
+<img src="./assets/images/docker.png" alt ="Docker" title="Docker"/>&nbsp;&nbsp; 
+<img src="./assets/images/ocp.png" alt ="Openshift" title="Openshift"/> 
 
 #### Méthodes / Frameworks
-<img height="32" width="32" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/> <img height="32" width="32" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
+<img height="32" width="32" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/>&nbsp;&nbsp; <img height="32" width="" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
 
 | Quelques statistiques | | |
 | :---: |:---:| :---:|
