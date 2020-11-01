@@ -19,8 +19,7 @@ Toujours dans le partage, je réaliser en tant que speaker, des conférences int
 
 ### :point_right: Compétences
 #### Langages / Frameworks
-<img height="24" width="24" src="./assets/images/java.svg" alt="java" title="Java"/>
-<img height="24" width="24" src="./assets/images/spring.svg" alt="spring" title="Spring"/> 
+<img height="24" width="24" src="./assets/images/java.svg" alt="java" title="Java"/> <img height="24" width="24" src="./assets/images/spring.svg" alt="spring" title="Spring"/> 
 <img height="24" width="24" src="./assets/images/typescript.svg" alt ="typescript" title="Typescript"/> 
 <img height="24" width="24" src="./assets/images/angular.svg" alt ="angular" title="Angular"/>
 <img height="24" width="24" src="./assets/images/groovy.svg" alt ="groovy" title="Groovy"/>
