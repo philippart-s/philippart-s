@@ -25,8 +25,7 @@ Toujours dans le partage, je réaliser en tant que speaker, des conférences int
 <img height="24" width="24" src="./assets/images/groovy.svg" alt ="groovy" title="Groovy"/>
 
 #### Outils
-<img height="24" width="24" src="./assets/images/jenkins.svg" alt ="Jenkins" title="Jenkins"/> 
-<img height="24" width="24" src="./assets/images/github.svg" alt ="GitHub" title="GitHub"/> 
+<img height="24" width="24" src="./assets/images/jenkins.svg" alt ="Jenkins" title="Jenkins"/> <img height="24" width="24" src="./assets/images/github.svg" alt ="GitHub" title="GitHub"/> 
 <img height="24" width="24" src="./assets/images/git.svg" alt ="Git" title="Git"/> 
 <img height="24" width="24" src="./assets/images/maven.svg" alt ="Maven" title="Maven"/> 
 <img height="24" width="24" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/> 
