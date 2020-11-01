@@ -1,4 +1,4 @@
-## Whoami :man:
+## :man: Whoami 
 [![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/wildagsx)
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/philippartstephane/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.philippart@gmail.com)
@@ -17,6 +17,24 @@ Je reste un développeur passionné depuis plus de 20 ans, essentiellement en Ja
 Le partage et la transmission sont pour moi deux chose essentielles dans mon approche du métier de développeur, c'est pourquoi, j'ai co-créé l'association [TADx](https://www.tadx.fr) qui a pour objectif d’organiser une session mensuelle de présentations effectuées par des intervenants venants de tous les horizons autour de l'agilité, le DevOps mais aussi toutes les relations humaines que l'on peut rencontrer au sein du métier de l’informatique. 
 Toujours dans le partage, je réaliser en tant que speaker, des conférences internes mais aussi quelques conférences externes ([Touraine Tech](https://touraine.tech/) et [codeurs en seine](https://touraine.tech/)).
 
+### :point_right: Compétences
+#### Langages / Frameworks
+<img height="24" width="24" src="./assets/images/java.svg" alt="java" title="Java"/>
+<img height="24" width="24" src="./assets/images/spring.svg" alt="spring" title="Spring"/> 
+<img height="24" width="24" src="./assets/images/typescript.svg" alt ="typescript" title="Typescript"/> 
+<img height="24" width="24" src="./assets/images/angular.svg" alt ="angular" title="Angular"/>
+<img height="24" width="24" src="./assets/images/groovy.svg" alt ="groovy" title="Groovy"/>
+
+#### Outils
+<img height="24" width="24" src="./assets/images/jenkins.svg" alt ="Jenkins" title="Jenkins"/> 
+<img height="24" width="24" src="./assets/images/github.svg" alt ="GitHub" title="GitHub"/> 
+<img height="24" width="24" src="./assets/images/git.svg" alt ="Git" title="Git"/> 
+<img height="24" width="24" src="./assets/images/maven.svg" alt ="Maven" title="Maven"/> 
+<img height="24" width="24" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/> 
+
+#### Méthodes / Frameworks
+<img height="24" width="24" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/> 
+<img height="24" width="24" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
 
 | Compétences | | Langues|
 | :---: |:---:| :---:|
