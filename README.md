@@ -19,27 +19,20 @@ Toujours dans le partage, je réaliser en tant que speaker, des conférences int
 
 ### :point_right: Compétences
 #### Langages / Frameworks
-<img height="24" width="24" src="./assets/images/java.svg" alt="java" title="Java"/> <img height="24" width="24" src="./assets/images/spring.svg" alt="spring" title="Spring"/> 
-<img height="24" width="24" src="./assets/images/typescript.svg" alt ="typescript" title="Typescript"/> 
-<img height="24" width="24" src="./assets/images/angular.svg" alt ="angular" title="Angular"/>
-<img height="24" width="24" src="./assets/images/groovy.svg" alt ="groovy" title="Groovy"/>
+<img width="32" height="32" src="./assets/images/java.png" alt="java" title="Java"/> <img src="./assets/images/spring.png" alt="spring" title="Spring"/> 
+<img src="./assets/images/typescript.png" alt ="typescript" title="Typescript"/> 
+<img src="./assets/images/angular.png" alt ="angular" title="Angular"/>
+<img src="./assets/images/groovy.png" alt ="groovy" title="Groovy"/>
 
 #### Outils
-<img height="24" width="24" src="./assets/images/jenkins.svg" alt ="Jenkins" title="Jenkins"/> <img height="24" width="24" src="./assets/images/github.svg" alt ="GitHub" title="GitHub"/> 
-<img height="24" width="24" src="./assets/images/git.svg" alt ="Git" title="Git"/> 
-<img height="24" width="24" src="./assets/images/maven.svg" alt ="Maven" title="Maven"/> 
-<img height="24" width="24" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/> 
+<img src="./assets/images/jenkins.png" alt ="Jenkins" title="Jenkins"/> <img src="./assets/images/github.png" alt ="GitHub" title="GitHub"/> 
+<img src="./assets/images/git.png" alt ="Git" title="Git"/> 
+<img src="./assets/images/maven.png" alt ="Maven" title="Maven"/> 
+<img src="./assets/images/npm.png" alt ="Npm" title="Npm"/> 
+<img src="./assets/images/docker.png" alt ="Docker" title="Docker"/> 
 
 #### Méthodes / Frameworks
-<img height="24" width="24" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/> <img height="24" width="24" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
-
-| Compétences | | Langues|
-| :---: |:---:| :---:|
-| Java, Spring, Groovy, Jenkins, DevOps, CI / CD, Agile (SCRUM) | | Anglais courant |
-
-
-
-
+<img height="32" width="32" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/> <img height="32" width="32" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
 
 | Quelques statistiques | | |
 | :---: |:---:| :---:|
