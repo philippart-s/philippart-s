@@ -70,6 +70,9 @@ Diplôme d’informatique de gestion.
 ### 1993 – BAC D – Lycée Claude de France à Romorantin
 Filière générale option biologie.
 
+### LANGUES
+🇫🇷 🇬🇧
+
 ### LOISIRS
 Badminton, Running, Cinéma, Concerts
 </details>
