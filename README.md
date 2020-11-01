@@ -31,8 +31,7 @@ Toujours dans le partage, je réaliser en tant que speaker, des conférences int
 <img height="24" width="24" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/> 
 
 #### Méthodes / Frameworks
-<img height="24" width="24" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/> 
-<img height="24" width="24" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
+<img height="24" width="24" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/> <img height="24" width="24" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
 
 | Compétences | | Langues|
 | :---: |:---:| :---:|
