@@ -46,7 +46,7 @@ Toujours dans le partage, je réaliser en tant que speaker, des conférences int
 
 ## EXPERIENCE PROFESSIONNELLE
 ### 2008 – Aujourd'hui | Architecte Logiciel et DevOps | Harmonie-Mutuelle
-Conception et réalisation de plateformes de développements JEE, Angular, Business Works (ESB) et SpringBoot (ainsi que SpringBatch) pour les développements d'applications intranet et Internet. Développement de Frameworks internes (SpringBoot & Angular).Conception et réalisation de la plateforme d'intégration continue basée sur Jenkins 2 (notamment avec les pipelines), Sonarqube et GitHub. 
+Conception et réalisation de plateformes de développements JEE, Angular, Business Works (ESB) et SpringBoot (ainsi que SpringBatch) pour les développements d'applications intranet et Internet. Développement de Frameworks internes (SpringBoot & Angular).Conception et réalisation de la plate-forme d'intégration continue basée sur Jenkins 2 (notamment avec les pipelines), Sonarqube et GitHub. 
 
 Conception d'architectures applicatives (SOA) sur les différents projets de développements ou d'intégration de progiciels.
 
@@ -56,7 +56,7 @@ Accompagnement de la production et des équipes projets dans la mise en place d'
 ### 2006 – 2008 | Ingénieur logiciel Java / JEE | Apside TOP
 Expert JEE en prestation chez Coface Services pour mise en place d'applications Web et montée en compétence des personnels internes. Rôle de tech lead au sein des équipes.
 
-### 2004 – 2006 | Chef de projet technique | Delta Informatique
+###  2004 – 2006 | Chef de projet technique | Delta Informatique
 Mise en place de sites web (secteur banque et assurances) en JEE (déployés sur Weblogic)comme développeur expert puis chef de projets techniques (spécifications techniques,développement et mise en place chez les clients) sur les mêmes technologies.
 
 ### 2002 – 2004 | Ingénieur Java / JEE | Prima Solutions
