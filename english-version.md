@@ -5,18 +5,17 @@
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/philippartstephane/)
 [![email](https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail)](mailto:s.philippart@gmail.com)
 
-Currently I work for Harmonie Mutuelle as software architect.
+Currently I'm working for Harmonie Mutuelle as software architect.
 
-For several years, I have been involved in setting up development bases for project teams (java, angular, esb, etc.) and providing support to them to best support them in the adoption of these technologies.
+For several years, I have been involved in setting up development architectures for project teams (java, angular, esb, etc.) and providing support to them to best help them in the adoption of these technologies.
 
-This support is reflected, by the creation and the share of  *inner-source* Frameworks.
+To do this I'm participating in the creation and the share of *inner-source* Frameworks.
 
 I maintain and upgrade the CI / CD chain based on Jenkins 2 (pipeline as code in Groovy).
-In addition to these pipelines, I am participating in the deployment of OpenShift.
-This allows me to facilitate my other role which is to facilitate the adoption of DevOps principles within my company.
+In addition to these pipelines, I'm participating in the deployment of Openshift.
+This allows me to make easier the adoption of DevOps principles in my company.
 
 I'm still a passionate developer for over 20 years, mainly in Java (JEE, Spring, ...) but also in other languages ​​such as Groovy, Typescript (Angular), ...
-
 
 Sharing and transmission are for me two essential things in my approach to the developer profession, which is why I co-created the association [TADx] (https://www.tadx.fr) which has for objective of organizing a monthly session of presentations made by speakers around agility, DevOps but also all the human relations in the development jobs.
 
