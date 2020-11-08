@@ -1,4 +1,4 @@
-[:fr: French version](/)
+[:fr: French version](/README.md)
 
 ## :man: Whoami 
 [![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/wildagsx)
