@@ -16,7 +16,7 @@ Cela me permet de faciliter mon autre rôle qui est de faciliter l'adoption des 
 Je reste un développeur passionné depuis plus de 20 ans, essentiellement en Java (JEE, Spring, ...) mais aussi dans d'autres langages comme Groovy, Typescript (Angular), ...
 
 Le partage et la transmission sont pour moi deux choses essentielles dans mon approche du métier de développeur, c'est pourquoi, j'ai co-créé l'association [TADx](https://www.tadx.fr) qui a pour objectif d’organiser une session mensuelle de présentations effectuées par des intervenants venants de tous les horizons autour de l'agilité, le DevOps mais aussi toutes les relations humaines que l'on peut rencontrer au sein des métiers de l’informatique. 
-Toujours dans le partage, je réaliser en tant que speaker, des conférences internes à ma société mais aussi quelques conférences externes ([Touraine Tech](https://touraine.tech/) et [codeurs en seine](https://touraine.tech/)).
+Toujours dans le partage, je réaliser en tant que speaker, des conférences internes à ma société mais aussi quelques conférences externes ([Touraine Tech](https://touraine.tech/) et [codeurs en seine](https://www.codeursenseine.com/2020/programme)).
 
 ### :point_right: Compétences
 #### Langages / Frameworks
