@@ -10,7 +10,7 @@ Je participe depuis plusieurs années à la mise en place de socles de développ
 Cet accompagnement se traduit, notamment, par la création et la promotion en mode *inner-source* de Frameworks et librairies internes.
 
 Je maintiens et fait évoluer la chaîne CI / CD basée sur Jenkins 2 (pipeline as code en Groovy). 
-En supplément de ces pipelines je participe au déploiement d'Openshift.
+En supplément de ces pipelines j'ai mis en place la plateforme Openshift et adapté toute la CI/ CD sur Openshift .
 Cela me permet de faciliter mon autre rôle qui est de faciliter l'adoption des principes DevOps au sein de ma société.
 
 Je reste un développeur passionné depuis plus de 20 ans, essentiellement en Java (JEE, Spring, ...) mais aussi dans d'autres langages comme Groovy, Typescript (Angular), ...
@@ -33,7 +33,9 @@ Toujours dans le partage, je réaliser en tant que speaker, des conférences int
 <img src="./assets/images/maven.png" alt ="Maven" title="Maven"/>&nbsp;&nbsp; 
 <img height="32" width="32" src="./assets/images/npm.svg" alt ="Npm" title="Npm"/>&nbsp;&nbsp; 
 <img src="./assets/images/docker.png" alt ="Docker" title="Docker"/>&nbsp;&nbsp; 
-<img src="./assets/images/ocp.png" alt ="Openshift" title="Openshift"/> 
+<img src="./assets/images/ocp.png" alt ="Openshift" title="Openshift"/>&nbsp;&nbsp;
+<img src="./assets/images/helm-icon-color.png" alt ="Helm" title="Helm"/> 
+
 
 #### Méthodes / Frameworks
 <img height="32" width="32" src="./assets/images/devops.png" alt ="DevOps" title="DevOps"/>&nbsp;&nbsp; <img height="32" width="" src="./assets/images/scrum.png" alt ="Scrum" title="Scrum"/> 
