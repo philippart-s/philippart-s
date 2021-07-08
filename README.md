@@ -1,3 +1,5 @@
+[:gb: English version](/english-version.md)
+
 ## :man: Whoami 
 [![twitter](https://img.shields.io/badge/twitter--lightgrey?style=social&logo=twitter)](https://twitter.com/wildagsx)
 [![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/philippartstephane/)
