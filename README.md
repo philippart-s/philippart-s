@@ -12,7 +12,7 @@ Mes sujets de prédilection :
  - le développement Java
  - le public cloud et cloud natif
 
-Co-créteur de l'association [TADx](https://www.tadx.fr).
+Co-créateur de l'association [TADx](https://www.tadx.fr).
 
 ### :point_right: Compétences
 #### Langages / Frameworks
